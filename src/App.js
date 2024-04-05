@@ -9,7 +9,7 @@ import SingleRecipe from './pages/SingleRecipe';
 
 
 function App() {
-
+console.log("hello")
   return (
     <div className="App">
    <BrowserRouter>
